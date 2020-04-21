@@ -1,0 +1,42 @@
+.output{
+    font-size: 2rem;
+    color: aquamarine;
+    font-weight: bold;
+    padding: 4px;
+}
+
+.form-container{
+    padding: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    align-items: center;
+    border: 3px solid red;
+    border-radius: 20px;
+    width: 70%;
+    display: block;
+    margin-top: 10%;
+}
+
+label{
+    padding: 6px;
+    font-size: 1.6rem;
+}
+
+.num-conversion{
+    padding: 13px;
+    border-radius: 6px ;
+    border: 2px solid black;
+    outline: none;
+    margin: 2%;
+    width: 20%;
+}
+
+.btn{
+    font-family: Verdana, cursive;
+    padding: 13px;
+    width: 100px;
+    border-radius: 5px;
+    cursor: pointer;
+    outline: none;
+}
